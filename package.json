@@ -1,0 +1,13 @@
+{
+  "name": "node-nosql-idor",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "morgan": "^1.9.1",
+    "morgan-body": "2.4.5",
+    "pug": "^2.0.4"
+  }
+}
